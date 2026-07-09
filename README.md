@@ -90,24 +90,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-<!--
-Replace these with your real repos. Format:
-#### [Project Name](https://github.com/your-username/project-repo)
-Short one-line description of what it does and the stack used.
--->
-
-#### 🔹 [Project One](https://github.com/your-username/project-one)
-A short description — e.g. e-commerce storefront built with **Next.js**, **Tailwind/Bootstrap**, and a **FastAPI** backend connected to **MySQL**.
-
-#### 🔹 [Project Two](https://github.com/your-username/project-two)
-A short description — e.g. cross-platform mobile app built with **React Native**, backed by **Django REST Framework** and **MongoDB**.
-
-#### 🔹 [Project Three](https://github.com/your-username/project-three)
-A short description — e.g. admin dashboard using **React**, **shadcn/ui**, with a **Laravel** + **SQL Server** backend.
-
----
 
 ### 📫 Let's Connect
 
